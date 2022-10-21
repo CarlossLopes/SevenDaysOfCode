@@ -14,7 +14,7 @@ public class SevenDaysOfCodeJava {
 	public static void main(String[] args) throws Exception {
 
 		System.out.println("Chamando API");
-		String apiKey = "k_ma6rwqt8";
+		String apiKey = "<chave key>";
 		String json = new ImdbApiClient(apiKey).getBody();
 
 		System.out.println("Parsing do JSON");
