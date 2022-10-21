@@ -1,2 +1,3 @@
 # SevenDaysOfCode
-Programa de busca base ultilizando a API da IMDB
+
+Basic search program, catalog using the IMDB API.
